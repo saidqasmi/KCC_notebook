@@ -36,7 +36,7 @@ Make the kernel available to Jupyter by running in a R console (if you have root
 Related Content
 ---------------
 
-Qasmi, S. and Ribes, A. (in revision): Reducing uncertainty in local climate projections _Nature Communications_ DOI:  <a href="https://doi.org/10.21203/rs.3.rs-364943/v1">10.21203/rs.3.rs-364943/v1</a>
+Qasmi, S. and Ribes, A. (in press): Reducing uncertainty in local temperature projections _Science Advances_ DOI:  <a href="https://doi.org/10.21203/rs.3.rs-364943/v1">10.21203/rs.3.rs-364943/v3</a>
 
 Ribes, A. et al. (2021): Making climate projections conditional on historical observations. _Science Advances_, 7, eabc0671, DOI: <a href="https://doi.org/10.1126/sciadv.abc0671">10.1126/sciadv.abc0671</a>
 
